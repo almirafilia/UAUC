@@ -1,0 +1,22 @@
+/*body{
+	background: url('Logo_petro.png');
+	width: 300%;
+	height: auto;
+}
+*/
+body {
+     margin: 0;
+     padding: 0;
+}
+.bg {
+	background-repeat: repeat;
+    width: 50%;
+    height: auto;
+    position: absolute;
+    left: 30px;
+    overflow:hidden;
+}
+
+/*.repeat {
+  background-repeat: repeat;
+}*/
